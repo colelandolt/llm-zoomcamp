@@ -1,5 +1,8 @@
+dlt==0.5.1
 elasticsearch==8.14.0
 ipykernel==6.29.4
+lancedb==0.10.1
+ollama==0.3.0
 openai==1.34.0
 pandas==2.2.2
 python-dotenv==1.0.1
